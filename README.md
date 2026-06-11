@@ -3,7 +3,7 @@ CG modeling portfolio created with Maya
 
 ## ワインボトルと机
 ### ファイル名
-Practice.png
+Practice.jpg
 ### 使用ソフト
 Maya
 ### 制作日数
@@ -16,7 +16,7 @@ EPカーブツールなどのカーブツールを使うと色を塗る時少し
 ## ボーリングブース
 
 ### ファイル名
-Bowling.png
+Bowling.jpg
 ### 使用ソフト
 Maya
 ### 制作日数
